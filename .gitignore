@@ -1,2 +1,3 @@
 Makefile
 compileall.py
+.gdb_history
